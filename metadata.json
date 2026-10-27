@@ -1,0 +1,6 @@
+{
+  "name": "Emmi Wigs - Luxury Wig Installations & Boutique",
+  "description": "Premium wig installations, flawless lace styling, and luxury hair boutique for Emmi Wigs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
